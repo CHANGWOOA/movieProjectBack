@@ -97,3 +97,72 @@ THEFILM은 최신 영화 정보를 제공하고, 예매 및 리뷰 기능을 지
  - API 데이터 연동: Kobis·KMDb API를 활용한 데이터 수집 및 DB 저장
  - 트랜잭션 적용: 기존 데이터 업데이트 및 신규 데이터 추가를 위한 트랜잭션 관리
  - 아이디/비밀번호 찾기 기능 구현 (전화번호/이메일 활용)
+
+*구동 이미지
+1) 메인화면
+![Image](https://github.com/user-attachments/assets/955866ba-5bd7-473d-b9f8-07d44e0e8fa3)
+
+![Image](https://github.com/user-attachments/assets/c8ac5f5e-16e0-48d7-9d39-4d82d35e392d)
+
+![Image](https://github.com/user-attachments/assets/78c6afc3-e5e7-45a7-8433-a6096e674b10)
+
+2) 로그인
+![Image](https://github.com/user-attachments/assets/af24a832-5c3a-48ea-924d-f3dc4a18f748)
+
+3) 회원가입
+![Image](https://github.com/user-attachments/assets/d227488c-d45c-453d-9f51-8bc89121b834)
+
+![Image](https://github.com/user-attachments/assets/33559a79-4c72-4685-b023-9504b68eafa1)
+
+![Image](https://github.com/user-attachments/assets/b0777e9a-d7c8-4e6d-b752-1522352b09a7)
+
+4) 회원정보 수정
+![Image](https://github.com/user-attachments/assets/30ac12d3-00fd-478f-9c47-a7018b7637bf)
+
+![Image](https://github.com/user-attachments/assets/2cad1a4f-bcb3-4d0f-b469-88c96839ec3c)
+
+![Image](https://github.com/user-attachments/assets/bc72e6f4-c01b-4f84-95f2-24f4ccd2f5c7)
+
+![Image](https://github.com/user-attachments/assets/0292e67f-8603-4ad4-92a3-34f17a85922b)
+
+5) 예매하기
+![Image](https://github.com/user-attachments/assets/7edd1d7e-44b8-49e9-b0cc-08cbe983853b)
+
+6) 좌석 선택
+![Image](https://github.com/user-attachments/assets/3596152b-c69d-43fd-bc1a-9903d09bce26)
+
+7) 결제하기
+![Image](https://github.com/user-attachments/assets/5a029848-ad30-417a-87b8-01c4c381bc73)
+
+![Image](https://github.com/user-attachments/assets/2c91e816-741b-4fac-9037-277b5dc709c5)
+
+8) 결제 완료
+![Image](https://github.com/user-attachments/assets/eafb4903-9290-46f9-b387-e9d48d60357a)
+
+9) 내 예매내역
+![Image](https://github.com/user-attachments/assets/b3c8a1da-3fb6-4cc5-8740-87b1141872a2)
+
+10) 관리자페이지 - 로그인
+![Image](https://github.com/user-attachments/assets/5e6d2836-fc72-4a8c-b9f0-fa3760b576d7)
+
+11) 관리자페이지 - 영화관리
+![Image](https://github.com/user-attachments/assets/596dd7d1-a347-44c6-8fc5-0654723b2bd0)
+
+![Image](https://github.com/user-attachments/assets/8a899c70-170d-4639-8468-75ccae4bfca6)
+
+![Image](https://github.com/user-attachments/assets/801df1c0-bc94-4a16-84e5-2127401056ff)
+
+12) 관리자페이지 - 상영관리
+![Image](https://github.com/user-attachments/assets/e995283c-ffed-409f-95cc-cd69bc8ba73c)
+
+![Image](https://github.com/user-attachments/assets/397aa3eb-623a-477c-addf-6be1a853aea6)
+
+![Image](https://github.com/user-attachments/assets/4569e179-fa74-4a65-8753-e3ee3e0e6ab1)
+
+![Image](https://github.com/user-attachments/assets/6f52a2dc-f196-4208-923f-03fbe7d34423)
+
+13) 관리자페이지 - 회원관리
+![Image](https://github.com/user-attachments/assets/2a64e7a8-156a-4354-b891-dac05eae18b9)
+
+14) 관리자페이지 - 결제관리
+![Image](https://github.com/user-attachments/assets/df20fb6a-96c9-4aea-9587-ece7ade2f3da)
